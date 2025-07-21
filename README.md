@@ -81,3 +81,4 @@ Excel/CSV	        Data source formats
 📤 Output
 The final report is export-ready and can be shared with stakeholders as an interactive Power BI report or a PDF snapshot, supporting strategic planning and public safety efforts.
 
+https://github.com/Sweedal21/Road-accident-dashboard/blob/main/Road_accident_Dashboard.jpg
